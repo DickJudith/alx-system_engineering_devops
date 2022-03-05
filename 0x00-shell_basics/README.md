@@ -1,1 +1,1 @@
-Delecte directory
+Change working directory to previous one
