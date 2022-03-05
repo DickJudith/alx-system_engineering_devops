@@ -1,1 +1,1 @@
-Create my first directory
+Move betty to my first directory
