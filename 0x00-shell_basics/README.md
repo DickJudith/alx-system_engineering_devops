@@ -1,1 +1,1 @@
-Display file type
+Create symbolic link
