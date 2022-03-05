@@ -1,1 +1,1 @@
-Switch user to user betty
+Username of user
