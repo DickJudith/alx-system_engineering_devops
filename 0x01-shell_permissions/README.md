@@ -1,1 +1,1 @@
-Execute permission
+Give multiple permissions
