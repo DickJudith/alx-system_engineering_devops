@@ -1,1 +1,1 @@
-Permission to other users
+Strange permission
