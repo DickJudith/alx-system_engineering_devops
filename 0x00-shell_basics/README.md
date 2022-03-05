@@ -1,1 +1,1 @@
-Display all filess including hidden . files
+Display user and group ID
